@@ -8,7 +8,7 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions
 (
-		plugin= {"json:cucumber.jason"}
+		plugin= {"json:cucumber.json"}
 		)
 
 public class case2 {
